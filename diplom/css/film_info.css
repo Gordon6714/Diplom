@@ -1,0 +1,42 @@
+
+        .FilmInfo_blockInfo_name_inf{
+            width: 100%;
+            left: 300px;
+        }
+
+        .FilmInfo_block_oglav_text{
+            margin-top: 5%;
+            color: white;
+            font-family: 'Junge';
+            font-style: normal;
+            font-size: 24px;
+            line-height: 29px;
+            color: #FFFFFF;
+        }
+
+        .FilmInfo_blockTreiler_video{
+            position: absolute;
+            width: 830px;
+            height: 368px;
+            left: 305px;
+            top: 1809px;
+        }
+
+        .film_image{
+            position: relative;
+            top: -24px;
+        }
+
+        .film_sessions{
+            top: -280px;
+        }
+
+        .film_age_limit{
+            top: -260px;
+        }
+
+        .film_name{
+            top: -20px;
+        }
+
+
